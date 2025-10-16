@@ -4,7 +4,7 @@ Aplicação web para visualizar e explorar cores em formato hexadecimal, desenvo
 
 ## Demonstração
 
-[Acesse o exibidor online](#) <!-- Adicione seu link aqui -->
+[Acesse o exibidor online](https://ohhlevix.github.io/Paleta-de-cores/cores.html) 
 
 ## Sobre o Projeto
 
@@ -17,8 +17,6 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 - Gerador de cores aleatórias
 - Gerador de paletas harmoniosas
 - Copiar código HEX ao clicar na cor
-- Interface responsiva e adaptável
-- Suporte a mais de 30 nomes de cores em português
 - Contraste automático do texto sobre as cores
 
 ## Tecnologias
